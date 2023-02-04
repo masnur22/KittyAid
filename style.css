@@ -1,6 +1,6 @@
 *{margin:0; padding:0; box-sizing:border-box;}
 h1{font-size:100px; text-align:center; font-family:Segoe Print; color:darkorange; padding:2px;}
-body{background:url('https://s3.wp.wsu.edu/uploads/sites/2955/2021/11/Kittens-11-21.jpg'); background-repeat:no-repeat; height:100vh; display:flex; justify-content:center;
+body{background-image:url('https://s3.wp.wsu.edu/uploads/sites/2955/2021/11/Kittens-11-21.jpg'); background-repeat:no-repeat; height:100vh; display:flex; justify-content:center;
 background-attachment:fixed; background-position:center;}
 p{font-size:25px; text-align:center; color:#FF7F50; border-width:3px; border-style:solid;}
 label{display: block; margin:0.5rem 0; text-align: center;}
